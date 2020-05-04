@@ -59,7 +59,7 @@ nav{
   /* HEADER CSS */
 .header {
     position: relative;
-    background-image: url(images/backgroundPortfolio\ copy.jpg);
+    background-image: url(backgroundPortfolioCopy.jpg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -145,7 +145,7 @@ nav{
 .about-me {
     height: 100vh !important;
     /* background-color:rgba(88, 179, 88, 0.801) !important; */
-    background-image: url(images/backgroundImage.jpg);
+    background-image: url(backgroundImageCopy.jpg);
     background-position: center;
     background-size: 45%;
     /* opacity: 0.5; */
